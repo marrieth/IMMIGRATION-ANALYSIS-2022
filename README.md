@@ -3,10 +3,11 @@
 
 ### PROJECT OVERVIEW
 
-This project shows the migration of people from Nigeria to other countries like Canada, UK etc.Based on gender,educational qualification and generation.
+This project shows the migration of people from Nigeria to other countries like Canada, UK etc.Based on gender,educational qualification and generations.
 
 
 ### DATA SOURCE
+
 
 Migration data used for this analysis is the Case_Study_Class.XLSX file containing detailed record about migration made by Japan International Limited.
 
