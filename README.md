@@ -8,7 +8,6 @@ This project shows the migration of people from Nigeria to other countries like 
 
 
 
-![IMG_2080](https://github.com/marrieth/IMMIGRATION-ANALYSIS-2022/assets/138234128/929511fc-6c68-486e-98e3-32aa1d621561)
 
 ### DATA SOURCE
 
