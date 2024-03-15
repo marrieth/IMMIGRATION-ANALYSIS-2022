@@ -6,9 +6,7 @@
 This project shows the migration of people from Nigeria to other countries like Canada, UK etc.Based on gender,educational qualification and generations.
 
 
-
-
-![IMG_2704 (1)](https://github.com/marrieth/IMMIGRATION-ANALYSIS-2022/assets/138234128/9e5e28ae-7c60-4cea-b973-aee8cf0b33bf)
+![IMG_2704 (1)](https://github.com/marrieth/IMMIGRATION-ANALYSIS-2022/assets/138234128/25e4747e-0c71-4612-9f9b-231058c46aa3)
 
 
 ### DATA SOURCE
